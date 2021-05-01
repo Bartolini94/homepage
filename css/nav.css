@@ -1,0 +1,29 @@
+.nav {
+    max-width: 100%;
+    background-color: #cecece;
+    border: 1px solid #aaa9a9;
+    border-radius: 20px;
+}
+
+.nav__list {
+    text-align: center;
+    padding: 0;
+}
+
+.nav__listItem {
+    margin: 10px 0;
+    list-style-type: none;
+    display: inline;
+    text-align: center;
+    padding: 20px;
+}
+
+.nav__link {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.nav__link:hover {
+    color: #a70202;
+}

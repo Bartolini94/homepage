@@ -1,0 +1,18 @@
+.table {
+    margin: auto;
+    border-collapse: collapse;
+}
+
+.table__Cell {
+    border: 1px solid #a0a0a0;
+    padding: 5px;
+    text-align: center;
+}
+
+.table__MainCell {
+    background-color: #cecece;
+    font-weight: bold;
+    border: 1px solid #a0a0a0;
+    padding: 0 15px 0 15px;
+    text-align: center;
+}
