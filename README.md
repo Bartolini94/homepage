@@ -1,9 +1,9 @@
-# Pierwsza testowa strona o autobusie Jelcz M121M
+# First test page about historical Polish Bus Jelcz M121M
 
 ## Demo
 
 https://bartolini94.github.io/homepage/
 
-## Opis
+## Description
 
-Strona wykonana od zera na potrzeby kursu **Youcode**. Będzie na bieżąco aktualizowana w ramach postępów w kursie. :)
+Page created as a part of course by **Youcode**. Page will be updated after every new course section. :)
